@@ -7,3 +7,10 @@ Font File Sources:
 -  [Plato](https://github.com/baskerville/plato/tree/master/fonts)
 -  [Koreader fonts](https://github.com/koreader/koreader-fonts/tree/046976988aa33639d60d6ffd25c7a0ff50b72ac0)
 -  [Libre Baskerville](https://github.com/impallari/Libre-Baskerville)
+
+Favourites:
+LITERATA
+LIBERTINUS
+YSRA
+XCHARTER
+newsreader ebook
